@@ -1,5 +1,5 @@
 #FIXME
-TRIPLE := riscv64-unknown-elf
+TRIPLE := riscv32-unknown-linux-gnu
 
 CC      := $(TRIPLE)-gcc
 OBJCOPY := $(TRIPLE)-objcopy
